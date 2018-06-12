@@ -1,0 +1,847 @@
+1528696835663	geckodriver	INFO	geckodriver 0.20.0
+1528696835679	geckodriver	INFO	Listening on 127.0.0.1:58106
+1528696835817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.q2TATDz3Q1YD"
+1528696840624	Marionette	INFO	Listening on port 58115
+1528696840905	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+[Child 10968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528696869061	geckodriver::marionette	ERROR	Failed to stop browser process
+1528696934834	geckodriver	INFO	geckodriver 0.20.0
+1528696934849	geckodriver	INFO	Listening on 127.0.0.1:58386
+1528696934965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.4074mEyJHLH2"
+1528696937896	Marionette	INFO	Listening on port 58394
+1528696938371	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528697128677	geckodriver	INFO	geckodriver 0.20.0
+1528697128677	geckodriver	INFO	Listening on 127.0.0.1:59233
+1528697129236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.tFTtRHdzHmDk"
+1528697134131	geckodriver	INFO	geckodriver 0.20.0
+1528697134153	geckodriver	INFO	Listening on 127.0.0.1:59268
+1528697134686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.tFGFxG6xFydk"
+1528697137983	Marionette	INFO	Listening on port 59277
+1528697138631	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528697230414	geckodriver	INFO	geckodriver 0.20.0
+1528697230429	geckodriver	INFO	Listening on 127.0.0.1:59649
+1528697231034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.ond2C9oABlYz"
+1528697233949	Marionette	INFO	Listening on port 59657
+1528697234370	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528697796382	geckodriver	INFO	geckodriver 0.20.0
+1528697796398	geckodriver	INFO	Listening on 127.0.0.1:60964
+1528697796969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.SHCTHBpRrwEB"
+1528697799696	Marionette	INFO	Listening on port 60972
+1528697799747	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+[Child 4340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/s1528697922514	Marionette	INFO	Listening on port 61500
+1528697922940	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+1528697956471	geckodriver	INFO	geckodriver 0.20.0
+1528697956487	geckodriver	INFO	Listening on 127.0.0.1:61707
+1528697957073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.0mvqCvn8zgdC"
+1528697960202	Marionette	INFO	Listening on port 61715
+1528697960554	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build1528698075215	Marionette	INFO	Listening on port 62108
+1528698075275	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+[Child 12360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9380, Chr1528698117189	Marionette	INFO	Listening on port 62360
+1528698117870	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+[Child 12020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528698536384	geckodriver	INFO	geckodriver 0.20.0
+1528698536399	geckodriver	INFO	Listening on 127.0.0.1:63428
+1528698537027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.Zbowyo3GY4lp"
+1528698540056	Marionette	INFO	Listening on port 63436
+1528698540519	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2888, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 2888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528698606535	geckodriver	INFO	geckodriver 0.20.0
+1528698606553	geckodriver	INFO	Listening on 127.0.0.1:63778
+1528698607158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.e5Noir2nWG4i"
+1528698609916	Marionette	INFO	Listening on port 63786
+1528698609987	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+[Child 3820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528698886404	geckodriver	INFO	geckodriver 0.20.0
+1528698886404	geckodriver	INFO	Listening on 127.0.0.1:64549
+1528698887005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.6AkjcuT4xvWB"
+1528698890033	Marionette	INFO	Listening on port 64558
+1528698890476	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+[Child 12304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path 1528699354580	Marionette	INFO	Listening on port 49340
+1528699354742	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528699906937	geckodriver	INFO	geckodriver 0.20.0
+1528699906937	geckodriver	INFO	Listening on 127.0.0.1:50665
+1528699907522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.QYibHidpvfOu"
+1528699910153	Marionette	INFO	Listening on port 50673
+1528699910332	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData1528699997747	Marionette	INFO	Listening on port 50985
+1528699998018	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528700314800	geckodriver	INFO	geckodriver 0.20.0
+1528700314834	geckodriver	INFO	Listening on 127.0.0.1:51955
+1528700315300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.6ZIF9pwSLMmd"
+1528700318487	Marionette	INFO	Listening on port 51963
+1528700318882	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608133103.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu1528700457408	Marionette	INFO	Listening on port 52428
+1528700457776	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+[Child 240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i1528700840459	Marionette	INFO	Listening on port 53432
+1528700840753	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180608110243.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/b1528700976836	Marionette	INFO	Listening on port 53863
+1528700977530	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable t1528701217553	Marionette	INFO	Listening on port 54530
+1528701218266	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Lo1528701303611	Marionette	INFO	Listening on port 54933
+1528701304079	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc1528701377097	Marionette	INFO	Listening on port 55260
+1528701377598	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528701420821	geckodriver	INFO	geckodriver 0.20.0
+1528701420832	geckodriver	INFO	Listening on 127.0.0.1:55519
+1528701421390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.T79uksYX5E8h"
+1528701424814	Marionette	INFO	Listening on port 55527
+1528701425559	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528701441159	geckodriver	INFO	geckodriver 0.20.0
+1528701441168	geckodriver	INFO	Listening on 127.0.0.1:55698
+1528701441699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.YzxowJK21WtC"
+1528701445629	Marionette	INFO	Listening on port 55706
+1528701446278	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Lo1528701807235	Marionette	INFO	Listening on port 56624
+1528701807929	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1528701963312	Marionette	INFO	Listening on port 57179
+1528701963798	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528702098769	geckodriver	INFO	geckodriver 0.20.0
+1528702098778	geckodriver	INFO	Listening on 127.0.0.1:57684
+1528702099263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.MxZ4AD6SKIHo"
+1528702102767	Marionette	INFO	Listening on port 57692
+1528702103473	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+[Child 10988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12624, Chrome_ChildThread] WARNING: pipe error: 109: file z:1528702202056	Marionette	INFO	Listening on port 58074
+1528702202595	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528703399739	geckodriver	INFO	geckodriver 0.20.0
+1528703399749	geckodriver	INFO	Listening on 127.0.0.1:61072
+1528703400228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.HRsafGKEXIKf"
+1528703403012	Marionette	INFO	Listening on port 61084
+1528703403489	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528703427834	geckodriver	INFO	geckodriver 0.20.0
+1528703427843	geckodriver	INFO	Listening on 127.0.0.1:61266
+1528703428381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.hatBq9Cdf862"
+1528703431426	Marionette	INFO	Listening on port 61278
+1528703432448	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528703543601	geckodriver	INFO	geckodriver 0.20.0
+1528703543611	geckodriver	INFO	Listening on 127.0.0.1:61634
+1528703544162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.TyzSiOtx19T0"
+1528703548878	Marionette	INFO	Listening on port 61642
+1528703549167	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528703826946	geckodriver	INFO	geckodriver 0.20.0
+1528703826956	geckodriver	INFO	Listening on 127.0.0.1:62396
+1528703827427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.tkzurVpofiLb"
+1528703831236	Marionette	INFO	Listening on port 62408
+1528703831329	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528704721772	geckodriver	INFO	geckodriver 0.20.0
+1528704721781	geckodriver	INFO	Listening on 127.0.0.1:64746
+1528704722337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.pWDz6DYxCdlA"
+1528704725167	Marionette	INFO	Listening on port 64754
+1528704725616	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528704750638	geckodriver	INFO	geckodriver 0.20.0
+1528704750648	geckodriver	INFO	Listening on 127.0.0.1:64947
+1528704751206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.24V5vACLio8R"
+1528704754178	Marionette	INFO	Listening on port 64960
+1528704754795	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528704766965	geckodriver	INFO	geckodriver 0.20.0
+1528704766974	geckodriver	INFO	Listening on 127.0.0.1:65097
+1528704767513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.qNqwD1aaWLJu"
+1528704770453	Marionette	INFO	Listening on port 65106
+1528704770872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528704814035	geckodriver	INFO	geckodriver 0.20.0
+1528704814044	geckodriver	INFO	Listening on 127.0.0.1:65264
+1528704814580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.mGIX4EwzeVBo"
+1528704817486	Marionette	INFO	Listening on port 65272
+1528704818016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+1528704849455	geckodriver	INFO	geckodriver 0.20.0
+1528704849464	geckodriver	INFO	Listening on 127.0.0.1:65492
+1528704849992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.bzG1GylcwLiw"
+1528704854239	Marionette	INFO	Listening on port 65500
+1528704854345	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528704868037	geckodriver::marionette	ERROR	Failed to stop browser process
+1528704868604	geckodriver	INFO	geckodriver 0.20.0
+1528704868614	geckodriver	INFO	Listening on 127.0.0.1:49267
+1528704869155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.8mOd3Jq5kF35"
+1528704872558	Marionette	INFO	Listening on port 49279
+1528704873007	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528704890715	geckodriver::marionette	ERROR	Failed to stop browser process
+1528704891430	geckodriver	INFO	geckodriver 0.20.0
+1528704891430	geckodriver	INFO	Listening on 127.0.0.1:49447
+1528704891957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.lcZ7202GEKhl"
+1528704895697	Marionette	INFO	Listening on port 49455
+1528704895842	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528704914745	geckodriver::marionette	ERROR	Failed to stop browser process
+1528704915428	geckodriver	INFO	geckodriver 0.20.0
+1528704915440	geckodriver	INFO	Listening on 127.0.0.1:49628
+1528704915997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.IHGxB8NRgr5U"
+1528704925542	Marionette	INFO	Listening on port 49636
+1528704925859	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528704941374	geckodriver::marionette	ERROR	Failed to stop browser process
+1528704942095	geckodriver	INFO	geckodriver 0.20.0
+1528704942106	geckodriver	INFO	Listening on 127.0.0.1:49819
+1528704942608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.OQQr0uRkjSED"
+1528704947574	Marionette	INFO	Listening on port 49827
+1528704947579	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528704964221	geckodriver::marionette	ERROR	Failed to stop browser process
+1528704965126	geckodriver	INFO	geckodriver 0.20.0
+1528704965136	geckodriver	INFO	Listening on 127.0.0.1:50026
+1528704965684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.VeaAh3iNi9gZ"
+1528704977515	Marionette	INFO	Listening on port 50039
+1528704978251	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528704995729	geckodriver::marionette	ERROR	Failed to stop browser process
+1528704998098	geckodriver	INFO	geckodriver 0.20.0
+1528704998109	geckodriver	INFO	Listening on 127.0.0.1:50253
+1528704998893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.f0GZ0dEeIcVx"
+1528705010076	Marionette	INFO	Listening on port 50261
+1528705011081	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528705025873	geckodriver::marionette	ERROR	Failed to stop browser process
+1528705026761	geckodriver	INFO	geckodriver 0.20.0
+1528705026771	geckodriver	INFO	Listening on 127.0.0.1:50441
+1528705027275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.aAnEWZszLlNV"
+1528705036532	Marionette	INFO	Listening on port 50449
+1528705036658	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528705055514	geckodriver::marionette	ERROR	Failed to stop browser process
+1528705056745	geckodriver	INFO	geckodriver 0.20.0
+1528705056755	geckodriver	INFO	Listening on 127.0.0.1:50635
+1528705057246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.TFcdAXcWFPSE"
+1528705065654	Marionette	INFO	Listening on port 50643
+1528705066150	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528705082855	geckodriver::marionette	ERROR	Failed to stop browser process
+1528705084014	geckodriver	INFO	geckodriver 0.20.0
+1528705084030	geckodriver	INFO	Listening on 127.0.0.1:50853
+1528705084571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.jLuHeM6TRXg8"
+1528705088699	Marionette	INFO	Listening on port 50861
+1528705089106	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+1528705102711	geckodriver::marionette	ERROR	Failed to stop browser process
+1528705103492	geckodriver	INFO	geckodriver 0.20.0
+1528705103500	geckodriver	INFO	Listening on 127.0.0.1:51022
+1528705104052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\HAPPYA~1\\AppData\\Local\\Temp\\rust_mozprofile.AyYWLJtwJMZt"
+1528705107681	Marionette	INFO	Listening on port 51034
+1528705107937	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Happyandhappy\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
+JavaScript warning: http://www.oddsportal.com/res/x/global-180611090858.js, line 1: unreachable code after return statement
